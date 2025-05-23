@@ -1,0 +1,11 @@
+.NavBarLateral{
+    position: fixed;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+a{
+    text-decoration: none;
+    font-weight: normal;
+    color: #03a9f4;
+}
